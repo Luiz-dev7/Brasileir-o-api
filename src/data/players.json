@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappe",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vinicius Junior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 4,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 6,
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 7,
+    "name": "Rodri",
+    "club": "Manchester City",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 9,
+    "name": "Martin Odegaard",
+    "club": "Arsenal",
+    "nationality": "Norway",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 10,
+    "name": "Declan Rice",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "nationality": "England",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 12,
+    "name": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 13,
+    "name": "Leroy Sané",
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 14,
+    "name": "Robert Lewandowski",
+    "club": "Barcelona",
+    "nationality": "Poland",
+    "position": "Forward",
+    "statics": {
+        "assistencias": 22,
+        "gols": 11,
+        "partidas": 42
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pedri",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "statics": {
+      "assistencias": 22,
+      "gols": 11,
+      "partidas": 42
+    }
+  }
+]
