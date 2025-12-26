@@ -9,4 +9,5 @@ export interface PlayerModel {
         gols:number;
         partidas:number;
     }
+    codImg: string
 }

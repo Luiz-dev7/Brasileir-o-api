@@ -1,10 +1,142 @@
 [
-    {
-        "id":1,
-        "clube": "Corinthians",
-        "position": 13
-    },
-    {
-
-    }
+  {
+    "id": 1,
+    "position": 1,
+    "clube": "Flamengo",
+    "pontuacao": 79,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg"
+  },
+  {
+    "id": 2,
+    "position": 2,
+    "clube": "Palmeiras",
+    "pontuacao": 76,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg"
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "clube": "Cruzeiro",
+    "pontuacao": 70,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cruzeiro_Logo.svg"
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "clube": "Mirassol",
+    "pontuacao": 67,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mirassol_FC_logo.svg"
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "clube": "Fluminense",
+    "pontuacao": 64,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.svg"
+  },
+  {
+    "id": 6,
+    "position": 6,
+    "clube": "Botafogo",
+    "pontuacao": 63,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg"
+  },
+  {
+    "id": 7,
+    "position": 7,
+    "clube": "Bahia",
+    "pontuacao": 60,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/6/6f/EC_Bahia_logo.svg"
+  },
+  {
+    "id": 8,
+    "position": 8,
+    "clube": "São Paulo",
+    "pontuacao": 51,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sao_Paulo_FC_logo.svg"
+  },
+  {
+    "id": 9,
+    "position": 9,
+    "clube": "Grêmio",
+    "pontuacao": 49,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gremio_logo.svg"
+  },
+  {
+    "id": 10,
+    "position": 10,
+    "clube": "Red Bull Bragantino",
+    "pontuacao": 48,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Red_Bull_Bragantino_logo.svg"
+  },
+  {
+    "id": 11,
+    "position": 11,
+    "clube": "Atlético-MG",
+    "pontuacao": 48,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clube_Atl%C3%A9tico_Mineiro_logo.svg"
+  },
+  {
+    "id": 12,
+    "position": 12,
+    "clube": "Santos",
+    "pontuacao": 47,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_FC_logo.svg"
+  },
+  {
+    "id": 13,
+    "position": 13,
+    "clube": "Corinthians",
+    "pontuacao": 47,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Corinthians_logo.svg"
+  },
+  {
+    "id": 14,
+    "position": 14,
+    "clube": "Vasco da Gama",
+    "pontuacao": 45,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CR_Vasco_da_Gama_logo.svg"
+  },
+  {
+    "id": 15,
+    "position": 15,
+    "clube": "Vitória",
+    "pontuacao": 45,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/3/3e/EC_Vitoria_logo.svg"
+  },
+  {
+    "id": 16,
+    "position": 16,
+    "clube": "Internacional",
+    "pontuacao": 44,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/6/6e/SC_Internacional_logo.svg"
+  },
+  {
+    "id": 17,
+    "position": 17,
+    "clube": "Ceará",
+    "pontuacao": 43,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ceara_Sporting_Club_logo.svg"
+  },
+  {
+    "id": 18,
+    "position": 18,
+    "clube": "Fortaleza",
+    "pontuacao": 43,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fortaleza_EC_logo.svg"
+  },
+  {
+    "id": 19,
+    "position": 19,
+    "clube": "Juventude",
+    "pontuacao": 35,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/0/05/EC_Juventude_logo.svg"
+  },
+  {
+    "id": 20,
+    "position": 20,
+    "clube": "Sport",
+    "pontuacao": 17,
+    "imgCod": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sport_Club_do_Recife_logo.svg"
+  }
 ]

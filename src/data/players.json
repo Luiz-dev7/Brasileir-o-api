@@ -1,183 +1,264 @@
 [
   {
     "id": 1,
-    "name": "Kylian Mbappe",
-    "club": "Real Madrid",
-    "nationality": "France",
-    "position": "Forward",
-    "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
-  },
-  {
-    "id": 2,
-    "name": "Vinicius Junior",
-    "club": "Real Madrid",
+    "name": "Kaio Jorge",
+    "club": "Cruzeiro",
     "nationality": "Brazil",
     "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 7,
+        "gols": 21,
+        "partidas": 30
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kaio_Jorge_2023.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Giorgian de Arrascaeta",
+    "club": "Flamengo",
+    "nationality": "Uruguay",
+    "position": "Midfielder",
+    "statics": {
+        "assistencias": 9,
+        "gols": 18,
+        "partidas": 32
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De_Arrascaeta_2020.jpg"
   },
   {
     "id": 3,
-    "name": "Jude Bellingham",
-    "club": "Real Madrid",
-    "nationality": "England",
-    "position": "Midfielder",
+    "name": "Vitor Roque",
+    "club": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 5,
+        "gols": 16,
+        "partidas": 28
+    },
+    "codImg": "https://tmssl.akamaized.net/images/portrait/original/355757-1688547636.jpg"
   },
   {
     "id": 4,
-    "name": "Erling Haaland",
-    "club": "Manchester City",
-    "nationality": "Norway",
+    "name": "Rayan",
+    "club": "Vasco da Gama",
+    "nationality": "Brazil",
     "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 6,
+        "gols": 14,
+        "partidas": 29
+    },
+    "codImg": "https://tmssl.akamaized.net/images/portrait/original/478922-1690001287.jpg"
   },
   {
     "id": 5,
-    "name": "Kevin De Bruyne",
-    "club": "Manchester City",
-    "nationality": "Belgium",
-    "position": "Midfielder",
+    "name": "Pedro",
+    "club": "Flamengo",
+    "nationality": "Brazil",
+    "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 4,
+        "gols": 12,
+        "partidas": 31
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pedro_2023.jpg"
   },
   {
     "id": 6,
-    "name": "Phil Foden",
-    "club": "Manchester City",
-    "nationality": "England",
-    "position": "Midfielder",
+    "name": "Willian José",
+    "club": "Bahia",
+    "nationality": "Brazil",
+    "position": "Forward",
     "statics": {
-        "assistencias": 22,
+        "assistencias": 3,
         "gols": 11,
-        "partidas": 42
-    }
+        "partidas": 29
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/9/93/Willian_Jos%C3%A9_2021.jpg"
   },
   {
     "id": 7,
-    "name": "Rodri",
-    "club": "Manchester City",
-    "nationality": "Spain",
-    "position": "Midfielder",
+    "name": "Carlos Vinícius",
+    "club": "Grêmio",
+    "nationality": "Brazil",
+    "position": "Forward",
     "statics": {
-        "assistencias": 22,
+        "assistencias": 2,
         "gols": 11,
-        "partidas": 42
-    }
+        "partidas": 27
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Carlos_Vin%C3%ADcius_2022.jpg"
   },
   {
     "id": 8,
-    "name": "Bukayo Saka",
-    "club": "Arsenal",
-    "nationality": "England",
-    "position": "Forward",
+    "name": "Alan Patrick",
+    "club": "Internacional",
+    "nationality": "Brazil",
+    "position": "Midfielder",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 8,
+        "gols": 7,
+        "partidas": 30
+    },
+    "codImg": "https://tmssl.akamaized.net/images/portrait/original/138043-1689375276.jpg"
   },
   {
     "id": 9,
-    "name": "Martin Odegaard",
-    "club": "Arsenal",
-    "nationality": "Norway",
-    "position": "Midfielder",
+    "name": "Fabrício Bruno",
+    "club": "Cruzeiro",
+    "nationality": "Brazil",
+    "position": "Defender",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 1,
+        "gols": 3,
+        "partidas": 34
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Fabr%C3%ADcio_Bruno_2025.jpg"
   },
   {
     "id": 10,
-    "name": "Declan Rice",
-    "club": "Arsenal",
-    "nationality": "England",
+    "name": "Matheus Pereira",
+    "club": "Fortaleza",
+    "nationality": "Brazil",
     "position": "Midfielder",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+        "assistencias": 7,
+        "gols": 6,
+        "partidas": 32
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Matheus_Pereira_2025.jpg"
   },
-
   {
     "id": 11,
-    "name": "Harry Kane",
-    "club": "Bayern Munich",
-    "nationality": "England",
-    "position": "Forward",
+    "name": "Raphael Veiga",
+    "club": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "Midfielder",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+      "assistencias": 12,
+      "gols": 14,
+      "partidas": 34
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Raphael_Veiga_2023.jpg"
   },
   {
     "id": 12,
-    "name": "Jamal Musiala",
-    "club": "Bayern Munich",
-    "nationality": "Germany",
-    "position": "Midfielder",
+    "name": "Weverton",
+    "club": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "Goalkeeper",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+      "assistencias": 0,
+      "gols": 0,
+      "partidas": 36
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Weverton_2022.jpg"
   },
   {
     "id": 13,
-    "name": "Leroy Sané",
-    "club": "Bayern Munich",
-    "nationality": "Germany",
+    "name": "Hulk",
+    "club": "Atlético Mineiro",
+    "nationality": "Brazil",
     "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+      "assistencias": 9,
+      "gols": 18,
+      "partidas": 33
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hulk_2022.jpg"
   },
   {
     "id": 14,
-    "name": "Robert Lewandowski",
-    "club": "Barcelona",
-    "nationality": "Poland",
+    "name": "Paulinho",
+    "club": "Atlético Mineiro",
+    "nationality": "Brazil",
     "position": "Forward",
     "statics": {
-        "assistencias": 22,
-        "gols": 11,
-        "partidas": 42
-    }
+      "assistencias": 7,
+      "gols": 16,
+      "partidas": 32
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Paulinho_Atl%C3%A9tico_Mineiro_2023.jpg"
   },
   {
     "id": 15,
-    "name": "Pedri",
-    "club": "Barcelona",
-    "nationality": "Spain",
+    "name": "Yuri Alberto",
+    "club": "Corinthians",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statics": {
+      "assistencias": 6,
+      "gols": 15,
+      "partidas": 35
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Yuri_Alberto_2023.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Franco Cristaldo",
+    "club": "Grêmio",
+    "nationality": "Argentina",
     "position": "Midfielder",
     "statics": {
-      "assistencias": 22,
+      "assistencias": 10,
+      "gols": 9,
+      "partidas": 34
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Franco_Cristaldo_2023.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mathías Villasanti",
+    "club": "Grêmio",
+    "nationality": "Paraguay",
+    "position": "Midfielder",
+    "statics": {
+      "assistencias": 6,
+      "gols": 7,
+      "partidas": 36
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mathias_Villasanti_2023.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Lucas Moura",
+    "club": "São Paulo",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statics": {
+      "assistencias": 8,
       "gols": 11,
-      "partidas": 42
-    }
+      "partidas": 31
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lucas_Moura_2023.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Jonathan Calleri",
+    "club": "São Paulo",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "statics": {
+      "assistencias": 5,
+      "gols": 14,
+      "partidas": 33
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jonathan_Calleri_2022.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Gerson",
+    "club": "Flamengo",
+    "nationality": "Brazil",
+    "position": "Midfielder",
+    "statics": {
+      "assistencias": 11,
+      "gols": 8,
+      "partidas": 35
+    },
+    "codImg": "https://upload.wikimedia.org/wikipedia/commons/5/55/Gerson_2023.jpg"
   }
+
+
 ]

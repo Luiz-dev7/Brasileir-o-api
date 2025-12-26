@@ -38,7 +38,7 @@ export const deletePlayer = async (id: number) => {
     return true
 }
 
-export const findModifyPlayer = async (id: number): Promise <PlayerModel | undefined> => {
+export const findModifyPlayer = async (id: number, statics:staticsModel): Promise <PlayerModel | undefined> => {
     const dataBase = await readDataBase()
     const index = dataBase.findIndex( player => player.id === id)
 
