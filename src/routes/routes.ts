@@ -2,6 +2,9 @@ import {Router} from "express"
 import * as controller from "../controllers/player-controllers"
 import * as clube from "../controllers/club-controllers"
 
+
+
+
     const router = Router()
 
     router.get("/players", controller.getPlayer)

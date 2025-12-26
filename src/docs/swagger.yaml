@@ -1,0 +1,167 @@
+openapi: 3.0.0
+info:
+  title: Brasileirão API
+  description: API para gerenciamento de clubes e jogadores do Brasileirão
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:3000
+
+tags:
+  - name: Clubs
+    description: Operações relacionadas a clubes
+  - name: Players
+    description: Operações relacionadas a jogadores
+
+paths:
+  /clubs:
+    get:
+      tags:
+        - Clubs
+      summary: Lista todos os clubes
+      responses:
+        200:
+          description: Lista de clubes
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Club"
+
+  /clubs/{id}:
+    get:
+      tags:
+        - Clubs
+      summary: Busca um clube por ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: number
+      responses:
+        200:
+          description: Clube encontrado
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Club"
+        404:
+          description: Clube não encontrado
+
+  /players:
+    get:
+      tags:
+        - Players
+      summary: Lista todos os jogadores
+      responses:
+        200:
+          description: Lista de jogadores
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Player"
+
+    post:
+      tags:
+        - Players
+      summary: Cria um novo jogador
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PlayerInput"
+      responses:
+        201:
+          description: Jogador criado com sucesso
+
+  /players/{id}:
+    get:
+      tags:
+        - Players
+      summary: Busca jogador por ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: number
+      responses:
+        200:
+          description: Jogador encontrado
+        404:
+          description: Jogador não encontrado
+
+    patch:
+      tags:
+        - Players
+      summary: Atualiza jogador
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: number
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PlayerInput"
+      responses:
+        200:
+          description: Jogador atualizado
+
+    delete:
+      tags:
+        - Players
+      summary: Remove jogador
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: number
+      responses:
+        204:
+          description: Jogador removido com sucesso
+
+components:
+  schemas:
+    Club:
+      type: object
+      properties:
+        id:
+          type: number
+        name:
+          type: string
+
+    Player:
+      type: object
+      properties:
+        id:
+          type: number
+        name:
+          type: string
+        position:
+          type: string
+        clubId:
+          type: number
+
+    PlayerInput:
+      type: object
+      required:
+        - name
+        - position
+        - clubId
+      properties:
+        name:
+          type: string
+        position:
+          type: string
+        clubId:
+          type: number
